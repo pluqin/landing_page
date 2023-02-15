@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Stay Focused and Boost Your Productivity"
+content: |
+  Memo is designed to help you stay focused and boost your productivity. With all your information in one place, you can easily access what you need and get back to work faster. Whether you're a student, a professional, or just someone who wants to be more efficient, Memo has got you covered.
+#button:
+#  label: "Learn More"
+#  link: "#"
+image: "images/screenshot2.png"

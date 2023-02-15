@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "The Ultimate Study & Work Companion"
+content: |
+  Are you tired of constantly switching between multiple tabs, trying to keep track of important information and notes? Do you struggle to consolidate all your research and stay organized? Look no further, because Memo is here to make your life easier!
+  <br/>
+  With Memo, you can effortlessly copy and paste information from any source directly into your connected Notion page. No more manual copying and pasting, no more scattered notes and information, just a centralized and organized place to store all the knowledge you need.
+#button:
+#  label: "Use for free"
+#  link: "#"
+image: "images/illustrations/project_manager/DrawKit Vector Illustration Project Manager (18) Large.jpeg"

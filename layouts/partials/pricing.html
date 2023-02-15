@@ -1,0 +1,15 @@
+<section class="wrapper spotlight style4 align-center halfscreen">
+  <div class="content">
+    {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+    <h1><b>{{ .big_text }}</b></h1>
+    <h3>{{ .subtitle }}</h3>
+    <p>{{ .content }}</p>
+
+
+    {{ with .button }}
+    <ul class="actions stacked">
+      <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
+    </ul>
+  </div>
+  {{ end }}
+</section>

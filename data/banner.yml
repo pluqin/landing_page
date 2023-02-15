@@ -1,0 +1,15 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen"
+title : "Memo"
+logo: "images/memo_logo_text.png"
+subtitle: |
+  All your bookmarks and notes in 1 Notion.
+content : |
+  Whether you're a student, professional, or just looking to be more efficient, Memo is the tools you need to get the job done. Memo is designed to increase your efficiency and streamline your study and work process. 
+  <br/>
+  Our tool integrates with Notion to help you consolidate all your notes, research, and information in one place, accessing what you need is quick and easy.
+button:
+  label : "Use for Free"
+  link : "https://www.raycast.com/mt40/memo"
+image : "images/illustrations/project_manager/DrawKit Vector Illustration Project Manager (7) Large.jpeg"
+

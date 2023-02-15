@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Say Goodbye to Clutter and Hello to Organization"
+content: |
+  With Memo, you can finally say goodbye to cluttered notes and hello to a seamless, organized system. Simply copy information from anywhere on the web, and it will automatically be saved to your Notion page. No more scrolling through multiple tabs, trying to find that one piece of information you need. Everything is just a few clicks away.
+#button:
+#  label: "Learn More"
+#  link: "#"
+image: "images/screenshot1.png"
